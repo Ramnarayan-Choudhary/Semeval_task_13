@@ -1,0 +1,6 @@
+{
+  "human": "0",
+  "machine": "1",
+  "hybrid": "2",
+  "adversarial": "3"
+}

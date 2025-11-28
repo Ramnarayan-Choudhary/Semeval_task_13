@@ -1,0 +1,13 @@
+{
+  "0": "human",
+  "1": "deepseek",
+  "2": "qwen",
+  "3": "01-ai",
+  "4": "bigcode",
+  "5": "gemma",
+  "6": "phi",
+  "7": "meta-llama",
+  "8": "ibm-granite",
+  "9": "mistral",
+  "10": "openai"
+}
