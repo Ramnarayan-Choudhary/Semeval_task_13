@@ -1,12 +1,8 @@
-# outputs, checkpoints, weights
-task_A/outputs/
-task_A/outputs/**
 wandb/
-*.safetensors
-*.pt
-*.bin
-*.parquet
-# temporary / environment
-__pycache__/
-.env
-.ipynb_checkpoints/
+wandb_manual_run/
+*.out
+wandb/
+wandb_manual_run/
+task_A/outputs/
+task_A/outputs/
+wandb/
