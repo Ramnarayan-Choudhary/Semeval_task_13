@@ -6,3 +6,5 @@ wandb_manual_run/
 task_A/outputs/
 task_A/outputs/
 wandb/
+*.parquet
+*.tgz
